@@ -9,7 +9,7 @@ function Header() {
     <Navbar className="bg-body-tertiary justify-content-between" data-bs-theme="dark">
       <Navbar.Brand href="#home"><img
               alt=""
-              src="/firstapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+              src="/firstapp/static/media/logo.46fc054ee76a8e1cab2eeb37420f77be.svg"
               width="30"
               height="30"
               className="d-inline-block align-top"
